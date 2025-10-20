@@ -7,7 +7,7 @@ The goal was to create a clear, data-driven view of how sales teams are performi
 ## 🎬 Dashboard Interactivity Demo
 
 Watch this quick 2-second clip showing interactive filters in Power BI:  
-[🎥 View Demo (MP4)]('/Users/suman/Library/Mobile Documents/com~apple~CloudDocs/Github/sales-kpi-dashboard/powerbi/sales_kpi_demo.mp4')
+[🎥 View Demo (MP4)](Users/suman/Library/Mobile Documents/com~apple~CloudDocs/Github/sales-kpi-dashboard/powerbi/sales_kpi_demo.mp4)
 
 
 ---
